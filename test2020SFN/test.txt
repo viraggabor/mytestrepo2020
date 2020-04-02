@@ -1,4 +1,5 @@
 alma
 korte
 szilva
+barack
 
